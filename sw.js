@@ -1,4 +1,4 @@
-const CACHE = "maandoverzicht-v3";
+const CACHE = "maandoverzicht-v5";
 const FILES = ["./", "./index.html", "./manifest.json", "./icon-180.png"];
 
 self.addEventListener("install", e => {
